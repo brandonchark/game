@@ -1,0 +1,31 @@
+import time
+def: wait(milliseconds):
+  start_time = time.time();
+  while 1:
+     if time.time() > start_time + (milliseconds / 1000):
+        break
+ Define: cls():
+  for i in range (0,100):
+    print (“”)       
+ progress = 1  
+ look_options = ["look", "observe", "look around", "check"]
+ while
+  #rest of game
+  response = input("")
+ while:
+  elif (response.lower in look_options) and progress == 1:
+  while:
+  elif (response.lower in look_options) and progress == 0:
+    print("Flavor text here")
+    wait(Number in thousands here)
+    while:
+  elif (response.lower in look_options) and progress == 0:
+    print("Flavor text here")
+    wait(Number in thousands here)
+  elif (response.lower in move_options) and progress == 0:
+    print("Flavor text here")
+    wait(Number in thousands here)
+  elif (response.lower in talk_options) and progress == 0:
+    print("Flavor text here")
+    wait(Number in thousands here)
+    progress += 1
